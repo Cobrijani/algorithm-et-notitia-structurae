@@ -1,3 +1,4 @@
+package week1;
 
 /******************************************************************************
  *  Compilation:  javac InteractivePercolationVisualizer.java
